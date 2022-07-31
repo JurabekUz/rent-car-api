@@ -1,0 +1,43 @@
+
+			CARBOOK
+			
+loyihani amalga oshirish rekjasi:
+
+Umumiy tavsif:
+
+
+
+Pages:
+
+Models:
+
+Views:
+
+
+
+car haqida orgina qisqacha malumot beradiga serializer yozish kerak undan foydalanib view yozamiz
+
+
+loyiha 7 qismda amalga oshadi
+
+1-qism:
+frontend yaratiladi (tayyori internetdan olindi)
+
+2-qism:
+loyiha yaratiladi, sozlamalar amalga oshiriladi
+
+3-qism:
+company app ustudi ishlanadi
+
+4-qism:
+email registration
+1-serializers.py va urls.py ni qo'hsamiz accounts_app ga
+2-
+
+Xatoliklar
+
+bloglar chiqarilganda blogcategory nomlari chiqmayapdi
+order yaratilayotganda user id qayerdan keladi, ozimiz qoshamizmi
+orderview ga get qilinganda orderning hammad datalari emas user name, car name va dropoff_date qaytishi kerak
+orderdetailviewda hamma datalar qaytishi kerak
+			
